@@ -8,4 +8,3 @@ def create_product(name, price):
 def print_product(product):
     return f"{product['name']} - ${product['price']}"
     
-
